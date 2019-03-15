@@ -1,6 +1,6 @@
 # AmI 2019 - Lab 2: Intro to Python (and Git)
 
-The goal of the exercises of this lab (see [Labs-02-python-git-intro.pdf](Labs-02-python-git-intro.pdf)) is to introduce you to the basic features of Python.
+The goal of the exercises of this lab (see [Labs-02-python-basics.pdf](Labs-02-python-basics.pdf)) is to introduce you to the basic features of Python.
 
 To get started:
 
